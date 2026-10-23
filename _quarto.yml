@@ -1,0 +1,24 @@
+# Optional: rename ecoinsights.qmd to index.qmd, then rename this file _quarto.yml.
+project:
+  type: website
+  output-dir: _site
+  render:
+    - index.qmd
+
+website:
+  title: "Vernon Visser | EcoInsights Lab"
+  description: "Biodiversity science for better conservation action"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: index.qmd#research
+        text: Research
+      - href: index.qmd#publications
+        text: Publications and resources
+      - href: index.qmd#people
+        text: People
+      - href: index.qmd#contact
+        text: Contact
+
+lang: en-GB
