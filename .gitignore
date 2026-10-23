@@ -48,3 +48,14 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Quarto temporary files and rendered website
+/.quarto/
+/_site/
+
+# Rendered preview supplied with the original draft
+/ecoinsights.html
+
+# Operating-system files
+.DS_Store
+Thumbs.db
