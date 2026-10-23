@@ -1,5 +1,8 @@
 ---
-title: "EcoInsights Lab · Biodiversity science for better conservation action"
+title: "EcoInsights Lab"
+subtitle: >-
+  ![EcoInsights Lab logo](images/ecoinsights-logo.png){width=180 style="display:block; max-width:100%; height:auto; margin:1rem 0;"}
+  Biodiversity science for better conservation action
 description: "Statistical ecology, biodiversity distributions, ecosystem condition and climate adaptation at the University of Cape Town."
 lang: en-GB
 date: "2026-10-23"
